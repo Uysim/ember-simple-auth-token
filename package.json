@@ -81,5 +81,8 @@
     "versionCompatibility": {
       "ember": ">=2.16.0 <=3.2.0"
     }
-  }
+  },
+  "fastbootDependencies": [
+    "node-fetch"
+  ]
 }
